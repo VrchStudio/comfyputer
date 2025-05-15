@@ -1,2 +1,4 @@
 # comfyputer
-Modular Multimodal AI Computer (for ComfyUI)
+Modular Multimodal AI Computer (for ComfyUI)  
+
+Coming soon... 
